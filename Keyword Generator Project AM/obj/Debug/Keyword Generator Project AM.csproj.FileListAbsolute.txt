@@ -1,0 +1,9 @@
+D:\AW 17\Source Code Visual Studio 19\Keyword Generator Project AM\Keyword Generator Project AM\bin\Debug\Keyword Generator Project AM.exe.config
+D:\AW 17\Source Code Visual Studio 19\Keyword Generator Project AM\Keyword Generator Project AM\bin\Debug\Keyword Generator Project AM.exe
+D:\AW 17\Source Code Visual Studio 19\Keyword Generator Project AM\Keyword Generator Project AM\bin\Debug\Keyword Generator Project AM.pdb
+D:\AW 17\Source Code Visual Studio 19\Keyword Generator Project AM\Keyword Generator Project AM\obj\Debug\Keyword_Generator_Project_AM.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Keyword Generator Project AM\Keyword Generator Project AM\obj\Debug\Keyword_Generator_Project_AM.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Keyword Generator Project AM\Keyword Generator Project AM\obj\Debug\Keyword Generator Project AM.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Keyword Generator Project AM\Keyword Generator Project AM\obj\Debug\Keyword Generator Project AM.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Keyword Generator Project AM\Keyword Generator Project AM\obj\Debug\Keyword Generator Project AM.exe
+D:\AW 17\Source Code Visual Studio 19\Keyword Generator Project AM\Keyword Generator Project AM\obj\Debug\Keyword Generator Project AM.pdb
